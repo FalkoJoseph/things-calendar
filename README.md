@@ -18,6 +18,8 @@ Calendar
 **Pikaday** can be bound to an input field:
 
 ```javascript
+import Calendar from 'things-calendar';
+
 <Calendar
   onSelect={(date) => console.log(date)}
   show={true}
