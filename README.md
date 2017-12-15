@@ -4,8 +4,6 @@ Calendar
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
 
-### A refreshing React Datepicker
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/JensDebergh/things-calendar/master/screenshot.jpg" alt="things-calendar" />
 </p>
