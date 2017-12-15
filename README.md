@@ -1,10 +1,14 @@
-Pikaday
+Calendar
 ========
 
-[![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
 
 ### A refreshing React Datepicker
 
-![Calendar Screenshot][calendar.jpg]
+<div style="text-align: center;">
+  ![Calendar Screenshot][https://github.com/JensDebergh/calendar/blob/master/calendar.jpg]
+</div>
+
+
+[license-image]: https://img.shields.io/:license-mit-blue.svg?style=flat-square
+[license-url]: LICENSE.md
