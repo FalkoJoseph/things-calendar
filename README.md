@@ -8,6 +8,10 @@ Calendar
 
 ![Screenshot](https://raw.githubusercontent.com/JensDebergh/things-calendar/master/screenshot.jpg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JensDebergh/things-calendar/master/screenshot.jpg" alt="things-calendar" />
+</p>
+
 ## Installation
 
     npm install things-calendar
