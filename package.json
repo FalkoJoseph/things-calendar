@@ -1,7 +1,7 @@
 {
-  "name": "create-react-library",
+  "name": "things-calendar",
   "version": "1.0.0",
-  "description": "React NPM library starter kit based on Facebook's create react app",
+  "description": "Simple but elegant datepicker inspired by Things for mac",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/udiliaInc/create-react-library.git"
+    "url": "git+https://github.com/JensDebergh/things-calendar.git"
   },
-  "author": "Dimitri Mikadze <dimitri@udilia.com>",
+  "author": "Jens Debergh <jensdebergh@gmail.com>",
   "bugs": {
-    "url": "https://github.com/udiliaInc/create-react-library/issues"
+    "url": "https://github.com/JensDebergh/things-calendar/issues"
   },
-  "homepage": "https://github.com/udiliaInc/create-react-library#readme",
+  "homepage": "https://github.com/JensDebergh/things-calendar",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "7.1.2",

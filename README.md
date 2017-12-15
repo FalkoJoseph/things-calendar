@@ -6,7 +6,7 @@ Calendar
 ### A refreshing React Datepicker
 
 <div style="text-align: center;">
-  ![Calendar Screenshot][https://github.com/JensDebergh/calendar/blob/master/calendar.jpg]
+  ![Calendar Screenshot](screenshot.jpg)
 </div>
 
 
