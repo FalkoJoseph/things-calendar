@@ -7,4 +7,4 @@ Pikaday
 
 ### A refreshing React Datepicker
 
-![Calendar Screenshot][./calendar.jpg]
+![Calendar Screenshot][calendar.jpg]
