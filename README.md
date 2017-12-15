@@ -7,7 +7,7 @@ Calendar
 ### A refreshing React Datepicker
 
 <div style="text-align: center;">
-  ![Calendar Screenshot](https://raw.githubusercontent.com/JensDebergh/things-calendar/master/screenshot.jpg)
+![alt text](https://raw.githubusercontent.com/JensDebergh/things-calendar/master/screenshot.jpg)
 </div>
 
 ## Installation
