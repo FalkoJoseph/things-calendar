@@ -1,6 +1,6 @@
 {
   "name": "things-calendar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple but elegant datepicker inspired by Things for mac",
   "main": "build/index.js",
   "scripts": {
