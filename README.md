@@ -13,8 +13,6 @@ Calendar
     npm install things-calendar
 ## Usage
 
-**Pikaday** can be bound to an input field:
-
 ```javascript
 import Calendar from 'things-calendar';
 
