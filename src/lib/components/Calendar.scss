@@ -1,0 +1,55 @@
+$base-font-weight-bold: 400;
+$base-background-color: #2B313B;
+$base-transition-speed: 250ms;
+$base-color: #FFF;
+$base-hover-color: #6BA7F4;
+
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+.dash-calendar {
+	position: relative;
+	width: 234px;
+	background-color: $base-background-color;
+	border-radius: 7px;
+	top: 35px;
+	left: 0;
+	z-index: 1;
+	visibility: hidden;
+	animation-duration: $base-transition-speed;
+
+	&.is-active {
+		visibility: visible;
+	}
+}
+
+.dash-calendar-inner {
+	padding: 8.5px 8px;
+}
+
+.dash-calendar-item {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+	flex: 1;
+	font-size: 14px;
+	color: $base-color;
+	font-weight: $base-font-weight-bold;;
+	height: 22px;
+	border-radius: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+	margin-bottom: 6px;
+
+	img {
+		width: 14px;
+		height: 14px;
+		margin-right: 7px;
+	}
+
+	&:hover {
+		background-color: $base-hover-color;
+	}
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>moon-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="DashX---ToDo-add" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="When-active" transform="translate(-471.000000, -560.000000)" fill-rule="nonzero" fill="#A3BDE2">
+            <g id="half-moon" transform="translate(471.000000, 560.000000)">
+                <g id="moon-icon">
+                    <path d="M10.466857,9.27765882 C6.74175338,9.27765882 3.71949227,6.25819058 3.71949227,2.53026559 C3.71949227,1.63625015 3.89382757,0.781541463 4.21435917,0 C1.74313293,0.998072431 0,3.42150287 0,6.25260677 C0,9.9777261 3.02226111,13 6.74736468,13 C9.57840158,13 12.0018768,11.254109 13,8.78284485 C12.2183518,9.10335029 11.3636743,9.27765882 10.466857,9.27765882 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
