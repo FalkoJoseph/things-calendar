@@ -1,4 +1,4 @@
-Calendar
+Things-calendar
 ========
 
 [![NPM version][npm-image]][npm-url]
