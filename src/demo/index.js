@@ -6,6 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 ReactDOM.render(
   <Calendar
     onSelect={(date) => console.log(date)}
-    show={true}
+    show
+    keyboardInput
   />, document.getElementById('root'));
 registerServiceWorker();

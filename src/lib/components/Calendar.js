@@ -10,17 +10,15 @@ import './Calendar.scss';
 import starIcon from './icons/star.svg';
 import moonIcon from './icons/moon.svg';
 
-export default class DashCalendar extends Component {
+export default class ThingsCalendar extends Component {
 	static propTypes = {
 		show: PropTypes.bool.isRequired,
-    onSelect: PropTypes.func.isRequired,
-    enableKeyboardInput: PropTypes.bool,
+    onSelect: PropTypes.func.isRequired
   }
 
   static defaultProps = {
 		show: false,
-		onSelect: (date) => console.log(date),
-    enableKeyboardInput: false,
+		onSelect: (date) => console.log(date)
   }
 
 	constructor(props) {
@@ -31,21 +29,20 @@ export default class DashCalendar extends Component {
 
 	componentDidMount() {
 		this.calendarPicker = new Pikaday({
-			minDate: new Date(),
-			keyboardInput: this.props.enableKeyboardInput,
-			onSelect: this.onSelect
+			...this.props,
+			onSelect: this.onSelect,
 		});
 		this.calendar.append(this.calendarPicker.el)
+	}
+
+	componentWillUnmount() {
+		this.calendar.remove(this.calendarPicker.el);
 	}
 
 	onSelect(date) {
 		var momentDate = moment(date);
 
 		this.props.onSelect(momentDate)
-
-		// Cleanup
-		this.calendarPicker.setDate(null);
-		this.calendarPicker.gotoToday()
 	}
 
 	render() {
