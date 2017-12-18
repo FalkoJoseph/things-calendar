@@ -23,6 +23,7 @@ import ThingsCalendar from 'things-calendar';
 />
 ```
 
+Note: This library requires [react](https://reactjs.org/)
 ### Configuration
 
 Things-calendar leaves the heavy lifting up to [pikaday](https://github.com/dbushell/Pikaday) and supports every feature pikaday has to offer:
