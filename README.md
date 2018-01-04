@@ -91,3 +91,9 @@ For a full list of methods for the calendarPicker check out pikaday's official [
 [npm-url]: https://www.npmjs.com/package/things-calendar
 [license-image]: https://img.shields.io/:license-mit-blue.svg?style=flat-square
 [license-url]: LICENSE.md
+
+## Special thanks to
+
+Ionicons for an awesome icon set [Ionicons](http://ionicons.com/)
+Calendar picker [Pikaday](https://github.com/dbushell/Pikaday)
+**The best** to-do app for mac on the market [Things](https://culturedcode.com/things/)
