@@ -95,5 +95,7 @@ For a full list of methods for the calendarPicker check out pikaday's official [
 ## Special thanks to
 
 Ionicons for an awesome icon set [Ionicons](http://ionicons.com/)
+
 Calendar picker [Pikaday](https://github.com/dbushell/Pikaday)
+
 **The best** to-do app for mac on the market [Things](https://culturedcode.com/things/)
